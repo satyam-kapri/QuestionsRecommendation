@@ -1,0 +1,310 @@
+{
+    "g": {
+        "score": [
+            30,
+            50,
+            70,
+            40,
+            60,
+            80,
+            90,
+            20,
+            10
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "beautiful string",
+                "link": "https://www.naukri.com/code360/problems/beautiful-string_1115625",
+                "difficulty": "easy",
+                "topic": "string"
+            }
+        ]
+    },
+    "a": {
+        "score": [
+            20,
+            66,
+            40,
+            30,
+            55,
+            25,
+            40,
+            20,
+            70
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            }
+        ]
+    },
+    "b": {
+        "score": [
+            20,
+            30,
+            10,
+            66,
+            87,
+            30,
+            40,
+            55,
+            25
+        ],
+        "ques": [
+            {
+                "title": "diameter of binary tree",
+                "link": "https://www.naukri.com/code360/problems/diameter-of-the-binary-tree_920552",
+                "difficulty": "easy",
+                "topic": "binary tree"
+            }
+        ]
+    },
+    "c": {
+        "score": [
+            20,
+            30,
+            10,
+            90,
+            87,
+            66,
+            40,
+            30,
+            70
+        ],
+        "ques": [
+            {
+                "title": "search in bst",
+                "link": "https://www.naukri.com/code360/problems/search-in-bst_1402878",
+                "difficulty": "easy",
+                "topic": "bst"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "aaa",
+                "link": "hhh",
+                "difficulty": "hard",
+                "topic": "array"
+            }
+        ]
+    },
+    "d": {
+        "score": [
+            40,
+            30,
+            55,
+            25,
+            66,
+            60,
+            30,
+            20,
+            70
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            }
+        ]
+    },
+    "e": {
+        "score": [
+            20,
+            40,
+            10,
+            66,
+            25,
+            30,
+            40,
+            20,
+            70
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "delete middle element from stack",
+                "link": "https://www.naukri.com/code360/problems/delete-middle-element-from-stack_985246",
+                "difficulty": "easy",
+                "topic": "stack"
+            }
+        ]
+    },
+    "f": {
+        "score": [
+            20,
+            30,
+            10,
+            90,
+            87,
+            66,
+            40,
+            30,
+            55
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "redundant brackets",
+                "link": "https://www.naukri.com/code360/problems/redundant-brackets_975473",
+                "difficulty": "easy",
+                "topic": "queue"
+            }
+        ]
+    },
+    "gg": {
+        "score": [
+            30,
+            50,
+            70,
+            40,
+            60,
+            80,
+            90,
+            20,
+            10
+        ],
+        "ques": [
+            {
+                "title": "count wys",
+                "link": "https://www.naukri.com/code360/problems/count-ways_758964",
+                "difficulty": "easy",
+                "topic": "graph"
+            },
+            {
+                "title": "max- town-order",
+                "link": "https://www.naukri.com/code360/problems/max-town-order_1377940",
+                "difficulty": "easy",
+                "topic": "graph"
+            }
+        ]
+    },
+    "hii": {
+        "score": [
+            215,
+            50,
+            50,
+            50,
+            50,
+            60,
+            70,
+            80,
+            90
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "intersection of two  linked list",
+                "link": "https://www.naukri.com/code360/problems/intersection-of-linked-list_630457",
+                "difficulty": "easy",
+                "topic": "linked list"
+            },
+            {
+                "title": "sort linked list of 0s 1s 2s",
+                "link": "https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937",
+                "difficulty": "easy",
+                "topic": "linked list"
+            },
+            {
+                "title": "search in a linked list",
+                "link": "https://www.naukri.com/code360/problems/search-in-a-linked-list_975381",
+                "difficulty": "easy",
+                "topic": "linked list"
+            }
+        ]
+    },
+    "hiiu": {
+        "score": [
+            50,
+            50,
+            50,
+            50,
+            50,
+            60,
+            70,
+            80,
+            90
+        ],
+        "ques": [
+            {
+                "title": "subarray with sum zero",
+                "link": "https://www.naukri.com/code360/problems/subarrays-with-zero-sum_3161876",
+                "difficulty": "easy",
+                "topic": "hashmap"
+            },
+            {
+                "title": "find similarity between two arrays",
+                "link": "https://www.naukri.com/code360/problems/find-similarities-between-two-arrays_1229070",
+                "difficulty": "easy",
+                "topic": "hashmap"
+            },
+            {
+                "title": "find pairs with a given sum in linked list",
+                "link": "https://www.naukri.com/code360/problems/find-pair-with-a-given-sum-in-a-doubly-linked-list_1164172",
+                "difficulty": "easy",
+                "topic": "hashmap"
+            }
+        ]
+    },
+    "satyam": {
+        "score": [
+            1,
+            2,
+            3,
+            0,
+            0,
+            3,
+            2,
+            2,
+            2
+        ],
+        "ques": []
+    }
+}
