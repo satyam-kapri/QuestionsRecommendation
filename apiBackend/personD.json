@@ -1,0 +1,194 @@
+{
+    "g": {
+        "score": [
+            30,
+            50,
+            70,
+            40,
+            60,
+            80,
+            90,
+            20,
+            10
+        ],
+        "ques": []
+    },
+    "a": {
+        "score": [
+            20,
+            66,
+            40,
+            30,
+            55,
+            25,
+            40,
+            20,
+            70
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            }
+        ]
+    },
+    "b": {
+        "score": [
+            20,
+            30,
+            10,
+            66,
+            87,
+            30,
+            40,
+            55,
+            25
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            }
+        ]
+    },
+    "c": {
+        "score": [
+            20,
+            30,
+            10,
+            90,
+            87,
+            66,
+            40,
+            30,
+            70
+        ],
+        "ques": []
+    },
+    "d": {
+        "score": [
+            40,
+            30,
+            55,
+            25,
+            66,
+            60,
+            30,
+            20,
+            70
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            }
+        ]
+    },
+    "e": {
+        "score": [
+            20,
+            40,
+            10,
+            66,
+            25,
+            30,
+            40,
+            20,
+            70
+        ],
+        "ques": []
+    },
+    "f": {
+        "score": [
+            20,
+            30,
+            10,
+            90,
+            87,
+            66,
+            40,
+            30,
+            55
+        ],
+        "ques": []
+    },
+    "gg": {
+        "score": [
+            30,
+            50,
+            70,
+            40,
+            60,
+            80,
+            90,
+            20,
+            10
+        ],
+        "ques": []
+    },
+    "hii": {
+        "score": [
+            215,
+            50,
+            50,
+            50,
+            50,
+            60,
+            70,
+            80,
+            90
+        ],
+        "ques": [
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "Maximum of minimum for every window size",
+                "link": "https://www.naukri.com/code360/problems/max-of-min_982935",
+                "difficulty": "easy",
+                "topic": "array"
+            },
+            {
+                "title": "aaa",
+                "link": "hhh",
+                "difficulty": "hard",
+                "topic": "array"
+            }
+        ]
+    },
+    "hiiu": {
+        "score": [
+            50,
+            50,
+            50,
+            50,
+            50,
+            60,
+            70,
+            80,
+            90
+        ],
+        "ques": []
+    }
+}
