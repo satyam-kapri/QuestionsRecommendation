@@ -7,14 +7,14 @@ import logo from './assets/coding_ninjas_logo.png'
 function App() {
 
   const [start, setStart] = useState(false);
-
+  const [user,setuser]=useState('');
   return (
     <>
     <div className='navbar'><img src={logo} alt="" width={'200px'} /></div>
    
    
     <div className="quiz">
-      { start ? <Quiz /> : <Start props={setStart} />} 
+      { start ? <Quiz user={user}/> : <Start setStart={setStart} setuser={setuser} />} 
     </div>
    
     </>

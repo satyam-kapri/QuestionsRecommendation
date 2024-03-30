@@ -57,7 +57,7 @@ const Question = styled.div`
 const Title = styled.h1`
     font-size: 24px;
 `;
-const Quiz = () => {
+const Quiz = ({user}) => {
 
     const [quiz, setQuiz] = useState([]);
     const [number, setNumber] = useState(0);
@@ -69,7 +69,7 @@ const Quiz = () => {
     const pickAnswer = (idx) => {
 
         const updatedArray = [...boolArray]; 
-        console.log(qno);
+       
         if (quiz[number].questions[qno].answer ===idx){ 
            
             setPts(pre=>pre+1);
@@ -122,7 +122,7 @@ const Quiz = () => {
             </> 
            }
          {
-                number === 9 && <GameOver tscore={tscore} results={results}/>
+                number === 9 && <GameOver tscore={tscore} results={results} user={user}/>
          }
         </QuizWindow>
     )

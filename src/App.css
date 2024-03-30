@@ -64,6 +64,9 @@ h1, h4 {
   top: 0;
   left: 0;
   padding: 1rem 6rem;
+  background: white;
+  width: 100vw;
+  z-index: 200;
 }
 .sidebar{
    
@@ -96,4 +99,11 @@ h1, h4 {
   padding: 0 2rem;
   box-sizing: border-box;
 
+}
+.results-scores{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 57vw;
+    flex-wrap: wrap;
 }
