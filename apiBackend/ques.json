@@ -1,0 +1,26 @@
+{
+    "array":[
+        {"link":"laa", "difficulty":"easy" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" }
+    ],
+    "dp":[
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" }
+    ],
+    "greedy":[
+        {"link":"ala", "difficulty":"easy" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" }
+    ],
+    "BST":[
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" },
+        {"link":"aa", "difficulty":"hard" }
+    ]
+}
